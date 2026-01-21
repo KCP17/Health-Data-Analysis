@@ -1,0 +1,5 @@
+https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/BPXO_L.htm#BPXOSY2
+https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/BMX_L.htm#BMXBMI
+https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/HSQ_L.htm#HSQ590
+https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DR1TOT_L.htm#DR1TKCAL
+https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/TCHOL_L.htm#LBDTCSI
